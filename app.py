@@ -1,7 +1,5 @@
 import pandas as pd
-from matplotlib import pyplot as plt
 import numpy as np
-import seaborn as sns
 from scipy import stats as st
 import scipy.stats
 import streamlit as st
